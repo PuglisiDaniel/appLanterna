@@ -2,9 +2,9 @@
 
 ## Desafio de construção de um app usando o sensor de movimento do react native
 
-![image](apresentacao.gif)
-![image](dioLightOn.jpeg)
-![image](dioLightOff.jpeg)
+ <img src="apresentacao.gif" width="500" height="500"><br>
+ <img src="dioLightOn.jpeg" width="400">
+ <img src="dioLightOff.jpeg" width="400">
 
 ## conteúdo:
 
